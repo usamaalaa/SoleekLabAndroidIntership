@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "686987414434",
+    "firebase_url": "https://androidintershiptask-osamaalaa.firebaseio.com",
+    "project_id": "androidintershiptask-osamaalaa",
+    "storage_bucket": "androidintershiptask-osamaalaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686987414434:android:3ecf4d69b97e3a65",
+        "android_client_info": {
+          "package_name": "com.example.usama.androidinternship_osamaalaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686987414434-3hstgiqb7lchd0ubs1a3qpvumu7iv2an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj-KT3M3emJFL4jY1KWqb_Ug-KWdWCQfI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

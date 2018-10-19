@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidInternship-OsamaAlaa</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password_6_characters">Password (6 characters)</string>
+    <string name="registeration">Registeration</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="user_registration">User Registration</string>
+    <string name="country">Country</string>
+</resources>
